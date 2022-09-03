@@ -6,7 +6,9 @@ package proyecto.gestionasistencia;
 
 /**
  *
- * @author Magister 19
+ * @author EstebanRodríguez
+ * @author FernandoMelillan
+ * @author Cristobalrodriguez
  */
 public class Alumno {
     private String name;
